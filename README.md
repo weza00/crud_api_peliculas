@@ -65,13 +65,13 @@ Nos lanzará un aviso, si le damos a eliminar la película desaparecerá de la l
 <img width="409" height="854" alt="image" src="https://github.com/user-attachments/assets/1fe824c6-4991-4ce5-a3d2-dc4a59c0c3fb" />
 
 ### Actores
-### Leer los actores de una película
+#### Leer los actores de una película
 
 Al seleccionar una película individual, se nos mostrará todos los actores de dicha película.
 
 <img width="407" height="854" alt="image" src="https://github.com/user-attachments/assets/d00bbdd1-6176-44dd-8b05-0a7cf4624215" />
 
-### Crear un actor
+#### Crear un actor
 
 Tocamos el botón "Añadir Actor" y se desplegará una pantalla con los campoz necesarios para añadir un actor.
 
